@@ -1,0 +1,10 @@
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\programing\orders\c#_Nazar\lr2\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
